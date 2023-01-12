@@ -1,6 +1,6 @@
 {
   "name": "rdnm_msg_geo",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "First npm package",
   "main": "index.js",
   "scripts": {
@@ -17,8 +17,8 @@
     "url": "https://github.com/Labastidaa/rdnm_msg_geo/issues"
   },
   "homepage": "https://github.com/Labastidaa/rdnm_msg_geo#readme",
-  "bin" : { 
+  "bin": {
     "RDNM_MSG_GEO": "./bin/global.js"
   },
-  "preferGlobal":true
+  "preferGlobal": true
 }
