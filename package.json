@@ -1,0 +1,24 @@
+{
+  "name": "rdnm_msg_geo",
+  "version": "1.0.0",
+  "description": "First npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Labastidaa/rdnm_msg_geo.git"
+  },
+  "keywords": [],
+  "author": "Geo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Labastidaa/rdnm_msg_geo/issues"
+  },
+  "homepage": "https://github.com/Labastidaa/rdnm_msg_geo#readme",
+  "bin" : { 
+    "RDNM_MSG_GEO": "./bin/global.js"
+  },
+  "preferGlobal":true
+}
